@@ -14,7 +14,7 @@ namespace Vidly.Models {
         [Display(Name="First Name")]
         public string FirstName { get; set; }
         [Required]
-        [Display(Name="Last Name")]
+        [Display(Name="Last Nameeee")]
         public string LastName { get; set; }
         [Required]
         public string Title { get; set; }
