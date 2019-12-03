@@ -12,6 +12,7 @@ namespace Vidly.Models {
         [Required]
         [Display(Name="Department Name")]
         public string Name { get; set; }
+        public string Name1111 { get; set; }
         
         public List<Employee> Employees { get; set; }
     }
